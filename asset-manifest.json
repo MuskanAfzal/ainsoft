@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ainsoft/static/css/main.7e21b589.css",
+    "main.js": "/ainsoft/static/js/main.b31f08d3.js",
+    "static/js/787.1c9108ee.chunk.js": "/ainsoft/static/js/787.1c9108ee.chunk.js",
+    "static/media/background.jpg": "/ainsoft/static/media/background.d74876d8ff9dce60fa8f.jpg",
+    "index.html": "/ainsoft/index.html",
+    "main.7e21b589.css.map": "/ainsoft/static/css/main.7e21b589.css.map",
+    "main.b31f08d3.js.map": "/ainsoft/static/js/main.b31f08d3.js.map",
+    "787.1c9108ee.chunk.js.map": "/ainsoft/static/js/787.1c9108ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e21b589.css",
+    "static/js/main.b31f08d3.js"
+  ]
+}
